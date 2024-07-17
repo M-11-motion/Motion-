@@ -1,8 +1,8 @@
-# About Me
-My Personal Repository 
+# Hello 👋,
+I'm Mary K Adeyemo 
 A young, highly motivated and creative Motion Designer with a solid background in animation fundamentals, both 2D/3D animation tools, and graphic design. Eager to learn and contribute to a collaborative team environment, bringing fresh ideas and enthusiasm to create engaging and impactful motion graphics.
 
-## Technical Skills and Core Competence 
+## 💪 Here are my skills and core competence 
 Shape and Text Animation: Adobe Illustrator, After Effects. 
 
 3D Modeling, Sculpting and Rendering: Blender, Unreal engine.
@@ -21,7 +21,7 @@ Other Skills: Simulation, Prototyping, JSON data import, Illustrations for apps 
 
 Additional Skills: Excellent communication, creativity, organization skills and a strong team player.
 
-## Certification 
+## 🎓 I have been certified of,
 3D Animation and Mixed Reality: Tech4Dev (Women Techsters Fellowship) 
 
 Fundamentals of Animation in After Effects: Domestika 
@@ -32,3 +32,10 @@ Introduction to Animation and Post Production: Yappi
 
 User Experience and Interaction Design for AR/VR/XR/MR: Coursera
 White Board Video Animation: Side Hustle 
+
+### 📫 You can reach me through 
+marykadeyemo@gmail.com
+
+### ✨ Fun Fact
+I'm a Twin😊 
+Coconut chips is my best snack
