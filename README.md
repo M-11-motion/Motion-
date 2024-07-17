@@ -1,5 +1,6 @@
 # Hello 👋,
 I'm Mary K Adeyemo 
+
 A young, highly motivated and creative Motion Designer with a solid background in animation fundamentals, both 2D/3D animation tools, and graphic design. Eager to learn and contribute to a collaborative team environment, bringing fresh ideas and enthusiasm to create engaging and impactful motion graphics.
 
 ## 💪 Here are my skills and core competence 
